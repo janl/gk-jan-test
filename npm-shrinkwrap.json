@@ -5,9 +5,9 @@
   "requires": true,
   "dependencies": {
     "@jan/gk-jan-test-dep": {
-      "version": "4.0.0",
-      "resolved": "https://registry.npmjs.org/@jan/gk-jan-test-dep/-/gk-jan-test-dep-4.0.0.tgz",
-      "integrity": "sha512-23utZcXc897RvsETKnGM11VUEWs1kUzFO75HwhgWbMJ07J3W2gEHpUsLc4Ocv2kMdUXB2wjFI2tG6FOOmP1qFg=="
+      "version": "5.0.0",
+      "resolved": "https://registry.npmjs.org/@jan/gk-jan-test-dep/-/gk-jan-test-dep-5.0.0.tgz",
+      "integrity": "sha512-ae2DHpv3sW5zdgI7TCZn9PZDsRY6Xav87spZtE5RXlIjmljJWcqd5pZHoVZRLpDyXfwoDEqMp9ZphZ0hb4Zvnw=="
     },
     "greenkeeper-lockfile": {
       "version": "1.9.0",
