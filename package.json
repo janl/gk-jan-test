@@ -10,5 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "@jan/gk-jan-test-dep": "^1.0.0"
+  },
+  "devDependencies": {
+    "greenkeeper-lockfile": "^1.9.0"
   }
 }
